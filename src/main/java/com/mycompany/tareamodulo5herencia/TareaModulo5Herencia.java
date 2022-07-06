@@ -53,5 +53,6 @@ public class TareaModulo5Herencia {
         cuadrado.imprimirInformacion();
         cuadrado.imprimirArea();
         
+        System.out.println("Actualizacion de la rama de desarrollo para luego aplicar a produccion");
     }
 }
